@@ -2,19 +2,28 @@
 
 ▪ A memory-based Card Matching Game developed using 8086 Assembly Language as a semester project for Computer Organization and Assembly Language (COAL).
 
+
 🕹️ About the Game
 
 ▪ The game features a 4×4 board containing 16 hidden cards and 8 matching pairs.
 
 ▪ The objective is to find all matching pairs within 12 attempts. Players can navigate through the board, reveal two cards at a time, and test their memory to complete the game.
 
+
+
 ✨ Features
 ▪ Interactive 4×4 card board
+
 ▪ 8 hidden matching pairs
+
 ▪ 12 attempts limit
+
 ▪ Keyboard-based navigation and selection
+
 ▪ Automatic pair detection
+
 ▪ Win and Game Over screens
+
 ▪ Restart functionality
 
 🎮 Controls
