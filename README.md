@@ -13,6 +13,7 @@
 
 
 ✨ Features
+
 ▪ Interactive 4×4 card board
 
 ▪ 8 hidden matching pairs
@@ -30,6 +31,7 @@
 
 
 🎮 Controls
+
 ▪ Arrow Keys ---> Move cursor
 
 ▪ ENTER ---> Select card
@@ -41,6 +43,7 @@
 
 
 🖥️ Game Screenshots
+
 ▪ Start Screen
 ![Start Screen](screenshots/start-screen.png)
 
@@ -50,6 +53,7 @@
 
 
 ⚙️ Concepts Implemented
+
 ▪ Arrays and indexing
 
 ▪ Registers and memory
@@ -69,6 +73,7 @@
 
 
 🛠️ Technologies Used
+
 ▪ 8086 Assembly Language
 
 ▪ EMU8086 Emulator
@@ -80,6 +85,7 @@
 
 
 ▶️ How to Run
+
 1. Clone or download this repository.
 
 2. Open the .asm file in EMU8086.
@@ -91,5 +97,7 @@
 
 
 Course: Computer Organization and Assembly Language (COAL)
+
 Project: Card Matching Game
+
 Developed by: Anjlee Kumari
