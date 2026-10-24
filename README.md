@@ -45,10 +45,10 @@
 🖥️ Game Screenshots
 
 ▪ Start Screen
-![Start Screen](screenshots/start-screen.png)
+![Start Screen](screenshots/start-screen.PNG)
 
 ▪ Gameplay
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/gameplay.PNG)
 
 
 
